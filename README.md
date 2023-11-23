@@ -7,7 +7,7 @@
 
 <div id="badges">
   <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Хабр-blue?style=for-the-badge&logo=Хабр&logoColor=blue" 
+    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=blue" 
 alt="Хабр Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
