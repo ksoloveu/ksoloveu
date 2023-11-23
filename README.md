@@ -7,15 +7,15 @@
 
 <div id="badges" align="center">
   <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=blue" alt="Habr Badge"/>
+    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge" alt="Habr Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/ksoloveu&style=flat-square&color=blue" alt="badges"/>
+    <img src="https://komarev.com/ghpvc/?username=ksoloveu&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Навыки:
