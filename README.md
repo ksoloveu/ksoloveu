@@ -23,12 +23,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" **alt="NumPy" width="40" height="40"/>
-  <img src="https://www.cleanpng.com/png-plotly-data-visualization-chart-javascript-hottest-1328668/" title="Plotly" **alt="Plotly" width="40" height="40"/>
-  <img src="https://www.pngegg.com/en/png-coewd" title="SciPy" **alt="SciPy" width="40" height="40"/>
+  <img src="file:///C:/Users/ket20/Downloads/plot_ly_logo_icon_168902.svg" title="Plotly" **alt="Plotly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" **alt="SciPy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
-  <img src="https://worldvectorlogo.com/logo/clickhouse" title="Clickhouse" **alt="Clickhouse" width="40" height="40"/>
-  <img src="https://brandfetch.com/redash.io" title="Redash" **alt="Redash" width="40" height="40"/>
+  <img src="file:///C:/Users/ket20/Downloads/clickhouse%20.svg" title="Clickhouse" **alt="Clickhouse" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/redashio/redashio-icon.svg" title="Redash" **alt="Redash" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tablue" **alt="Tablue" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" **alt="Jupyter notebook" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
