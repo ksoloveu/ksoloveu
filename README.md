@@ -11,6 +11,7 @@
   </a>
   <a href="https://t.me/k_soloveu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <div id="badges">
