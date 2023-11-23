@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
   <img src="https://worldvectorlogo.com/logo/clickhouse" title="Clickhouse" **alt="Clickhouse" width="40" height="40"/>
   <img src="https://brandfetch.com/redash.io" title="Redash" **alt="Redash" width="40" height="40"/>
-   <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tableau_logo.svg" title="Tablue" **alt="Tablue" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tablue" **alt="Tablue" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" **alt="Jupyter notebook" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
