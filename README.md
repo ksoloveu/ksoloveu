@@ -7,13 +7,12 @@
 
 <div id="badges">
   <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=blue" 
-alt="Хабр Badge"/>
+    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=blue" alt="Habr Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
 </div>
 
 <div id="badges">
-<img src="https://komarev.com/ghpvc/ksoloveu&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/ksoloveu&style=flat-square&color=blue" alt=""/>
 </div>
