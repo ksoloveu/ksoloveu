@@ -5,7 +5,7 @@
   
 - Успешно окончила курсы по аналитике данных от Karpov.Courses 👩‍🎓
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://career.habr.com/ksoloveu">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=Habr&logoColor=blue" alt="Habr Badge"/>
   </a>
@@ -14,6 +14,6 @@
   </a>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/ksoloveu&style=flat-square&color=blue" alt=""/>
 </div>
