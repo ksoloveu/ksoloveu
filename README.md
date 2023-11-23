@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge" alt="Habr Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
-    <img src="https://img.shields.io/badge/telegram.svg?logo=https://github.com/badges/shields/blob/master/logo/telegram.svg" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/telegram/v/telegram.svg?logo=telegram" alt="Telegram Badge"/>
   </a>
 </div>
 
