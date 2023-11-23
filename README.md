@@ -13,3 +13,7 @@ alt="Хабр Badge"/>
   <a href="https://t.me/k_soloveu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
 </div>
+
+<div id="badges">
+<img src="https://komarev.com/ghpvc/ksoloveu&style=flat-square&color=blue" alt=""/>
+</div>
