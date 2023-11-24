@@ -11,6 +11,9 @@
   <a href="https://career.habr.com/ksoloveu">
     <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge" alt="Habr Badge"/>
   </a>
+ <a href="https://public.tableau.com/app/profile/.66457266/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau Badge"/>
+  </a>
   <a href="https://t.me/k_soloveu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Telegram Badge"/>
 </div>
