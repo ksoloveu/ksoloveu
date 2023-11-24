@@ -9,7 +9,7 @@
 
 <div id="badges" align="center">
   <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge" alt="Habr Badge"/>
+    <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge" alt="Habr Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Telegram Badge"/>
@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="60" height="60"/>
   <img src="https://ww2.freelogovectors.net/svg12/clickhouse-logo_freelogovectors.net.svg" title="Clickhouse" **alt="Clickhouse" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/redashio/redashio-ar21.svg" title="Redash" **alt="Redash" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/redashio/redashio-ar21.svg" title="Redash" **alt="Redash" width="80" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" **alt="Tableau" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" **alt="Jupyter notebook" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" **alt="PyCharm" width="60" height="60"/>
