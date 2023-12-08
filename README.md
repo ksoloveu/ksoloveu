@@ -5,25 +5,6 @@
 - Продолжаю осваивать навыки
 
 
-## Связаться со мной:
-
-<div id="badges" align="center">
-  <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge" alt="Habr Badge"/>
-  </a>
- <a href="https://public.tableau.com/app/profile/.66457266/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau Badge"/>
-  </a>
-  <a href="https://t.me/k_soloveu">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Telegram Badge"/>
-</div>
-
-<div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=ksoloveu&style=flat-square&color=blue" alt=""/>
-</div>
-
-
-
 ## Навыки:
 
 <div align="center">
@@ -52,3 +33,23 @@
 | [Проект e-commerce](https://github.com/ksoloveu/Project_e-commerce)                                            | Анализ совершенных покупок пользователей: проведение когортного анализа, построение RFM-                                                                                                                            сегментации пользоваталей с помощью Python.|
 | [Приложение доставки](https://github.com/ksoloveu/Project_Delivery-Application)                                | Оценка новой системы рекомендаций товаров: смогла ли принести пользу бизнесу и пользователям                                                                                                                        приложения. Выбор метрик качества сервиса и статистическое сравнение между группами. |
 | [Приложение знакомств](https://github.com/ksoloveu/Project_Dating_Application)                                 | Оценка нового алгоритма для поиска наиболее подходящих анкет: смог ли улучшить качество                                                                                                                             сервиса. Выбор метрик качества сервиса и статистическое сравнение между группами.|
+
+
+## Связаться со мной:
+
+<div id="badges" align="center">
+  <a href="https://career.habr.com/ksoloveu">
+    <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge" alt="Habr Badge"/>
+  </a>
+ <a href="https://public.tableau.com/app/profile/.66457266/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau Badge"/>
+  </a>
+  <a href="https://t.me/k_soloveu">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Telegram Badge"/>
+</div>
+
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=ksoloveu&style=flat-square&color=blue" alt=""/>
+</div>
+
+
