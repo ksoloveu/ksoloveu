@@ -2,6 +2,7 @@
 
 - Имею диплом о высшем экономическом образовании, а также диплом по программе "Разработчик прикладного ПО на языке Python"
 - Успешно окончила курсы по аналитике данных от Karpov.Courses
+- Опыт работы на должности бизнес-аналитика от 1 года
 - Продолжаю осваивать навыки
 
 
@@ -20,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" **alt="Jupyter notebook" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" **alt="PyCharm" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="AirFlow" **alt="AirFlow" width="60" height="60"/>
 </div>
 
 
@@ -39,13 +40,16 @@
 
 <div id="badges" align="center">
   <a href="https://career.habr.com/ksoloveu">
-    <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge" alt="Habr Badge"/>
+    <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor-white" alt="Habr Badge"/>
   </a>
- <a href="https://public.tableau.com/app/profile/.66457266/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau Badge"/>
+  <a href="https://public.tableau.com/app/profile/.66457266/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" alt="Tableau Badge"/>
   </a>
   <a href="https://t.me/k_soloveu">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor-white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://e.mail.ru/cgi-bin/sentmsg?To=ekaterina.solovieva.02@mail.ru&from=otvet">
+    <img src="https://img.shields.io/badge/Mail.Ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=FC6C00" alt="Mail Badge"/>
 </div>
 
 <div id="badges" align="center">
