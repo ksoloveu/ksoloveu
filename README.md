@@ -9,8 +9,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/redashio/redashio-ar21.svg" title="Redash" **alt="Redash" width="80" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" **alt="Tableau" width="80" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" **alt="Jupyter notebook" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" **alt="PyCharm" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="AirFlow" **alt="AirFlow" width="60" height="60"/>
 </div>
